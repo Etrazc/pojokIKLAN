@@ -1,6 +1,4 @@
-# pojokIKLAN
-
-![Preview](./img/__readme/__readme.jpg)
+![Preview](./img/readme/readme.JPG)
 
 > Jangan dianggap serius, santai aja.. hehe..
 
@@ -8,17 +6,17 @@
 ## About
 pojokIKLAN adalah tempat menampilkan iklan dalam bentuk gambar yang tujuannya tidak lain hanya untuk kesenangan pribadi :D Kebanyakan iklan yang ditampilkan adalah plesetan merk produk terkenal. 
 
-Selain membuat desain dan memposting iklan, saya juga menyediakan aset atau mentahan yang dapat diedit dan diunduh secara gratis. Mentahan ini saya upload di [Blog](blog.html).
+Selain membuat desain dan memposting iklan, saya juga menyediakan aset atau mentahan yang dapat diedit dan diunduh secara gratis. Mentahan ini saya upload di [Blog](https://etrazc.github.io/pojokIKLAN/blog.html).
 
 Sayangnya ini adalah desain lama, dan di Pixellab tidak dapat menampilkan font yang sedang digunakan. Itulah kenapa saya tidak menambahkan font pada folder mentahan. Meski begitu elemen2 dalam lapisan desain tertata rapi. Berikut ini adalah preview dari mentahan plesetan merk produk.
 
-![Preview](./img/__readme/__md-1.jpg)
+![Preview](./img/readme/md-1.JPG)
 
-![Preview](./img/__readme/__md-2.jpg)
+![Preview](./img/readme/md-2.JPG)
 
-![Preview](./img/__readme/__md-3.jpg)
+![Preview](./img/readme/md-3.JPG)
 
-![Preview](./img/__readme/__md-4.png)
+![Preview](./img/readme/md-4.PNG)
 
 Dan masih ada banyak desain lainnya.
 

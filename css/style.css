@@ -127,6 +127,11 @@ ul, ol {
 	vertical-align: top;
     margin-left: 4px;
 }
+.site-btn i.fa-google-drive:before {
+    font-size: 20px;
+	vertical-align: top;
+    margin-left: 4px;
+}
 .site-btn:hover {
 	color: #fff;
 }
